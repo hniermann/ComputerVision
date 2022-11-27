@@ -1,4 +1,5 @@
 # ComputerVision
+To start a video at a specific time, see https://www.mathworks.com/help/matlab/ref/videoreader.html
 ## Timestamps for shots
 ### OG1
 9,12,36,39,54,56,1:21,1:23,1:58
